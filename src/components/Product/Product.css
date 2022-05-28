@@ -45,6 +45,7 @@
 
 .button-cart:hover {
     background-color:orange;
+    cursor: pointer;
 }
 
 .button-cart p{
